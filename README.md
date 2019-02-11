@@ -1,0 +1,1 @@
+LineageOS 11.0 for the LGE I-Project variants
